@@ -1,2 +1,1 @@
-# Docs
-just staralliance
+# 星域联盟文档仓库
